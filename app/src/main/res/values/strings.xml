@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MVP_Vishal</string>
+    <string name="success">Success</string>
+
+    <!-- hint messages -->
+    <string name="hint_mobile">Mobile</string>
+    <string name="hint_password">Password</string>
+
+    <!-- error messages -->
+    <string name="err_mobile">Please enter mobile.</string>
+    <string name="err_pass">Please enter password.</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="splash_screen_loading">Splash Screen Loading…</string>
+
+</resources>
